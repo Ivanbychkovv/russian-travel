@@ -12,4 +12,4 @@
 **Итоговый результат**
 
 ###### Links:
- [Посмотреть](https://github.com/Ivanbychkovv/russian-travel) 
+ [Посмотреть](https://ivanbychkovv.github.io/russian-travel)
