@@ -2,10 +2,9 @@
   padding: 0 0 8px;
   margin: 0;
   display: grid;
-  justify-content: center;
-  align-content: end;
   grid-template-rows: none;
   grid-template-columns: repeat(2, max-content);
+  grid-auto-flow: column;
   gap: 18px;
   list-style-type: none;
 }
